@@ -15,7 +15,7 @@
         android:textColor="@color/black"
         android:textSize="30dp"
         android:gravity="center_horizontal"
-
+        android:layout_marginRight="15dp"
         android:textStyle="bold" />
 
 </androidx.appcompat.widget.Toolbar>
