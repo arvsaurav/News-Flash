@@ -62,11 +62,11 @@ class MainActivity : AppCompatActivity(), NewsItemClicked {
         MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
 
     }
+
     override fun onItemClicked(item: News)
     {
         Toast.makeText(this, "Clicked!", LENGTH_LONG).show()
     }
-
 
 }
 
