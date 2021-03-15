@@ -1,11 +1,13 @@
 package com.gmail.sauravarv.newsflash
 
 import android.app.DownloadManager
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import android.widget.Toast.LENGTH_LONG
 import android.widget.Toolbar
+import androidx.browser.customtabs.CustomTabsIntent
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -65,7 +67,9 @@ class MainActivity : AppCompatActivity(), NewsItemClicked {
 
     override fun onItemClicked(item: News)
     {
-        Toast.makeText(this, "Clicked!", LENGTH_LONG).show()
+        val builder = CustomTabsIntent.Builder()
+        val customTabsIntent = builder.build()
+        customTabsIntent.launchUrl(this, Uri.parse(item.url))
     }
 
 }
