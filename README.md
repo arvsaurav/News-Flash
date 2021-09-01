@@ -1,5 +1,5 @@
 # News Flash
-News Flash is a Kotlin based Android Application for reading fresh news. It makes an API call and displays news title, description, author name and news image. On clicking news title or image it will show the full news article (done with the help of Custom Tabs). 
+News Flash is a Kotlin based Android Application for reading fresh news. It makes an API call and displays news title, description, author name and news image. On clicking news title or image it will show the full news article (implemented with the help of Custom Tabs). 
 ## App Screenshots
 <a href="">
   <img src= "https://user-images.githubusercontent.com/43547408/111210149-e70e8380-85f2-11eb-9fb1-1aead9ace19e.png"
