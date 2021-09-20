@@ -8,22 +8,29 @@ News Flash is a Kotlin based Android Application for reading fresh news. It make
        width="250">
   </a>
   
-  <a href="">
-  <img src= "https://user-images.githubusercontent.com/43547408/111210723-9b100e80-85f3-11eb-98bc-5d6faa9a3e90.png"
+   <a href="">
+  <img src= "https://user-images.githubusercontent.com/43547408/134065654-42826262-5414-4bee-a2b3-1fbf3ee8e2cd.png"
+       align="left"
+       height="500"
+       width="250">
+  </a>
+  
+   <a href="">
+  <img src= "https://user-images.githubusercontent.com/43547408/134065667-b7a8be89-ec09-4486-94b0-1893dff43683.png"
        align="left"
        height="500"
        width="250">
   </a>
   
   <a href="">
-  <img src= "https://user-images.githubusercontent.com/43547408/111210732-9d726880-85f3-11eb-8672-029b1982e6c1.png"
+  <img src= "https://user-images.githubusercontent.com/43547408/134065645-5591d222-7d4d-4b24-a252-f7c80ea05037.png"
        align="left"
        height="500"
        width="250">
   </a>
   
   <a href="">
-  <img src= "https://user-images.githubusercontent.com/43547408/111210742-9ea39580-85f3-11eb-916c-bdfd21b7ef63.png"
+  <img src= "https://user-images.githubusercontent.com/43547408/134065310-fbabd05a-d0d6-4009-a170-bfc1cc831178.png"
        align="left"
        height="500"
        width="250">
